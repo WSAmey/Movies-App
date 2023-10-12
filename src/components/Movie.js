@@ -7,6 +7,6 @@ const Movie = (props) => {
       <p>Year: {props.year}</p>
     </div>
   )
-}
+} 
 
 export default Movie
